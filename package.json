@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/evanejtucker/shopify-test/issues"
   },
-  "homepage": "https://github.com/evanejtucker/shopify-test#readme"
+  "homepage": "https://github.com/evanejtucker/shopify-test#readme",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "nonce": "^1.0.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
 }
